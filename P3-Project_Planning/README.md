@@ -8,12 +8,14 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Wireframes
 
-Include at least 3 wireframes here, adding images or files to your repository as necessary. Format them as a bulleted/unordered list with links to the files.
+ * ![Wireframe Example - Step 1](https://user-images.githubusercontent.com/76983887/213941499-78a2deee-1ffd-4137-9054-fa059fa85637.jpg)
+ * ![Wireframe Example - Step 2](https://user-images.githubusercontent.com/76983887/213941500-194cbeb7-ca48-40aa-9e3d-41d91f3ebb2b.jpg)
+ * ![Wireframe Example - Step 3](https://user-images.githubusercontent.com/76983887/213941502-c483251f-8fbc-470e-9423-b05e9fcdccff.jpg)
 
 ### Project Tracker
 
-Include a link to your public Trello board. Be sure you have user stories added for at least your first 2-week sprint.
+https://trello.com/b/BvuQ2K29/plantopedia
 
 ### Project Repo Link
 
-Include a link to your project on GitHub.
+https://github.com/Jan-23-Liftoff-KC/plantopedia
